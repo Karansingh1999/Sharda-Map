@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#2AD3D3D3"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/textView_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sharda Fest"
+        android:textColor="#000000"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Sharda University gave me all the requirement in behaviour,academics and improvement in skills as well. The teachers are very cooperative and motivate us to be a good human being. College life in Sharda University is a great experience as Sharda University is one of the best Universities in our country and I am glad to be a part of this University."
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="5dp"
+        android:text="14 Sep 2019"
+        android:textColor="#000000"
+        android:textStyle="italic" />
+
+</LinearLayout>

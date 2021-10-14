@@ -1,0 +1,343 @@
+<resources>
+    <string name="app_name">SHARDA MAP</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1991793911924456/8080505159</string>
+    <string name="Share">share</string>
+    <string name="events">events</string>
+    <string name="record">Record</string>
+    <string name="wifi_problem">"IT Help Desk support system"
+
+
+The users may report for their IT related issues / problems using following process :-
+
+First Level:-  Register your issue either by email (ithelpdesk@sharda.ac.in) or can call direct on ext. no. - 2856 (within office hrs. only).
+
+Second Level:- Issue can be Escalated to Mr. Dharmedra Kumar (dharmendra.kumar1@sharda.ac.in) and available on ext. no. - 2858 (within office hrs. only).
+
+Wi-Fi Login related Issues :- First user have to register for the verification of his /her credentials himself  using Wi-Fi portal for Wi-Fi authentication (Login ID &amp; Password).
+
+   If you are facing any problems in this process, you have to personally visit with your device ( Laptop / Mobile /Tab) at IT –Service department  SDS Building , First Floor, Data Centre, IT Service Department to get  it resolved.
+
+
+
+
+Registration Process for Wi-Fi network access :-
+
+Connect with SHARDA-WiFi  and as soon as you click on your browser a registration/login page will open. You have to fill required mandatory fields.
+
+The Mandatory Requirements For Wi-Fi Registration:-
+
+Ø  Sharda System ID ( In Case of Student ) /  Employee Code  (In Case of  Employee of SHARDA University).
+
+Ø  Email ID (*only Sharda email ID  e.g.  For employee abcd@sharda.ac.in , For Students it would be abcd@ug.sharda.ac.in,    abcd@pg.sharda.ac.in )  you will receive mail from Wi-Fi system generated for triggering OTP for password Only on official mail-id ( Sharda Mail Domain )
+
+Ø  Sharda Email-id can be login on Gmail.com
+
+Ø  Mobile Number  ( On this No you will get OTP (One Time Password)
+
+Ø  Date of Birth  ( As mentioned in the document )
+
+Ø  Batch Year (Only for Students)
+
+Ø  Employee or Student are allowed to connect WiFi on 2 devices(Mobile, Laptop or tab etc.)  only. In case if user wants to change his/ her device then he/ she has to fill request form for the same and submit to IT-Services department at  SDS Building , Data Center.
+
+
+
+How to Register:
+Ø  Users need to connect with SHARDA Wi-Fi , login page will appear.
+
+Ø  Once user clicks “Register” post completing all relevant information on the form, Users will get the mail on his Sharda Email ID for activation password.
+
+Ø  As Soon As you will Clicking the URL received on mail he/she will received OTP SMS for password.
+
+Ø  To reach Sharda mail ID, short term internet access will be allowed.
+
+Ø  If user doesn’t activate the link on mail ID within the time period (e.g. 10 Min.), he or she has to re register/ repeat this process himself after Half An hours.
+
+Ø  Access will not be allowed till he activates the link. Once expired, user will need to ask re-generate password.
+
+Ø  Password Life cycle/ Validity: Password will be Valid for Six Months
+
+Ø  Change of Mobile No.: Once registered than user can not change himself,  He/she has to fill request form for the same  to IT- Service Department at SDS Building , Data Centre.
+
+
+
+
+
+Connect Wi-Fi with the following SSID’s:-
+
+
+There are two Wi-Fi SSID’s in University campus, one is SHARDA-WIFI and second is SHARDA-WLAN.
+
+Ø  SHARDA-WIFI will be available in all Hostels.
+
+Ø  SHARDA-WLAN will be available in Educational Blocks, 1,2,3,4,7,21 and all staff quarters and Hospital area.
+
+Note: - Username and password for Wi-Fi authentication will be same in both Areas. (i.e. Hostels and Other Blocks.)
+
+
+
+
+
+
+
+
+
+
+**
+
+(If issue is still not resolved in speculated time, may reach to Mr. Mahesh Kandwal (Head -IT Services) at  email-id- mahesh.kandwal@sharda.ac.in and available on ext. no. 2803)</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="long_text2"> THE ADVANCED PROCEDURES AT SHARDA HOSPITAL HAVE OPENED NEW FRONTIERS OF HOPE FOR PATIENTS WHO ARE SUFFERING FROM LIFE THREATENING.ALSO THE STUDENTS OF SHARDA GET DISSCOUNT THEIR.</string>
+
+    <string-array name="list">
+        <item>010-REFRIGIRATION AND AIR CONDITIONING LAB</item>
+        <item>011-AUTOMOBILE LAB</item>
+        <item>012-EMPTY</item>
+        <item>013-IOT LAB</item>
+        <item>014-ELECTRICAL MACHINE LAB</item>
+        <item>015-SCHOOL OF BASIC SCIENCE AND RESEARCH</item>
+        <item>001-DEAN OFFICE</item>
+        <item>003-OSD OFFICE</item>
+        <item>002-ADMIN OFFICE</item>
+        <item>004-BTECH COORDINATION CELL FOR FIRST YEAR</item>
+        <item>103-NUCLEAR PHYSICS LAB</item>
+        <item>102-GENERAL PHYSICS LAB-2</item>
+        <item>104-CLASSROOM</item>
+        <item>105-CLASSROOM</item>
+        <item>107-CLASSROOM</item>
+        <item>108-CLASSROOM</item>
+        <item>109-CLASSROOM</item>
+        <item>110-FACULTY ROOM</item>
+        <item>111-BUSINESS INCUBATION CENTER</item>
+        <item>112-CENTER FOR MATHS AND PHYSICAL LAB</item>
+        <item>113CLASSROOM</item>
+        <item>114-CLASSROOM</item>
+        <item>115-CLASSROOM</item>
+        <item>116-CLASSROOM</item>
+        <item>117-CLASSROOM</item>
+        <item>118-CLASSROOM</item>
+        <item>119-LEARNING RESOURCE CENTER</item>
+        <item>120-MATERIAL RESEARCH LABORATORY</item>
+        <item>121-CHEMISTRY LAB</item>
+        <item>221-ADVANCED INTRUMENTATION AND AUTOMMATION LAB</item>
+        <item>220-ENGINEERING DRAWING LAB</item>
+        <item>219-COMPUTER LAB</item>
+        <item>218-CLASSROOM</item>
+        <item>217-CLASSROOM</item>
+        <item>216-CLASSROOM</item>
+        <item>213-FACULTY ROOM</item>
+        <item>215-FACULTY ROOM</item>
+        <item>214-COMPUTER LAB</item>
+        <item>210-FACULTY LAB</item>
+        <item>212-FACULTY ROOM</item>
+        <item>211-COMPUTER LAB</item>
+        <item>209-CLASSROOM</item>
+        <item>208-CLASSROOM</item>
+        <item>207-CLASSROOM</item>
+        <item>206-CLASSROOM</item>
+        <item>205-CLASSROOM</item>
+        <item>204-CLASSROOM</item>
+        <item>315 AND 316-CAD SIMULATION LAB</item>
+        <item>314B-CLASSROOM</item>
+        <item>314A-CLASSROOM</item>
+        <item>313A-CLASSROOM</item>
+        <item>313B-MICROPROCESSOR AND MICROCONTRILAR LAB</item>
+        <item>312-CLASSROOM</item>
+        <item>310-CLASSROOM</item>
+        <item>309A-CLASSROOM</item>
+        <item>309B-LINEAR INTEGRATED CIRCUIT LAB</item>
+        <item>308-CLASSROOM</item>
+        <item>307B-CONTROL SYSTEM LAB</item>
+        <item>307A-CLASSROOM</item>
+        <item>306-CLASSROOM</item>
+        <item>304 AND305-COMMUNICATION,NETWORK,DIGITAL LAB</item>
+        <item>301-HOD-ECE</item>
+        <item>303-PROF.HEAD OF CSE</item>
+        <item>302-CAD CENTER</item>
+        <item>401-BIOTECH LAB-1</item>
+        <item>402-CLASSROOM</item>
+        <item>403-CLASSROOM</item>
+        <item>404-CLASSROOM</item>
+        <item>405-RESEARCH LAB</item>
+        <item>505-BIOTECH LAB-2</item>
+        <item>503-CLASSROOM</item>
+        <item>502-CLASSROOM</item>
+        <item>501B-CLASSROOM</item>
+        <item>501A-BIOTECH LAB-3</item>
+
+
+    </string-array>
+
+    <string-array name="list1">
+
+        <item>001-INTERNATIONAL RELATION</item>
+        <item>002-MARKETING DEPARTMENT</item>
+        <item>003-BOARD ROOM</item>
+        <item>004-EMPTY</item>
+        <item>005-AUDITORIUM</item>
+        <item>OO6A-CLASSROOM</item>
+        <item>006B-CLASSROOM</item>
+        <item>007-LANGUAGE LAB</item>
+        <item>008-ENERGY AND CONSERVATION LAB</item>
+        <item>009-ELECTRICAL LAB</item>
+        <item>010-ELECTRICAL LAB</item>
+        <item>013-DEAN STUDENT WELFARE</item>
+        <item>014-AUDITORIUM</item>
+        <item>108A-CLASSROOM</item>
+        <item>108B-CLASSROOM</item>
+        <item>109-PHYSICS LAB</item>
+        <item>110-CHEMISTRY LAB</item>
+        <item>113-CHEMISRY LAB</item>
+        <item>107A-CLASSROOM</item>
+        <item>104-CLASSROOM</item>
+        <item>105-CLASSROOM</item>
+        <item>106-CLASSROOM</item>
+        <item>208A-CLASSROOM</item>
+        <item>PM207A-CLASSROOM</item>
+        <item>209-CLASSROOM</item>
+        <item>210-CLASSROOM</item>
+        <item>202A AND 202B-LANGUAGE LAB</item>
+        <item>211-CLASSROOM</item>
+        <item>212-CLASSROOM</item>
+        <item>RM107B-CLASSROOM</item>
+        <item>206-CLASSROOM</item>
+        <item>205-CLASSROOM</item>
+        <item>204-CLASSROOM</item>
+        <item>203-CLASSROOM</item>
+        <item>201-CLASSROOM</item>
+        <item>216-CLASSROOM</item>
+        <item>213-CLASSROOM</item>
+        <item>301-ENVIRONMENTAL LAB</item>
+        <item>303-CLASSROOM</item>
+        <item>304-CLASSROOM</item>
+        <item>305-CLASSROOM</item>
+        <item>306-CLASSROOM</item>
+        <item>309-CLASSROOM</item>
+        <item>RM310-CLASSROOM</item>
+        <item>308-COMPUTER LAB(A,B,C)</item>
+        <item>307-CLASSROOM</item>
+        <item>208B-CLASSROOM</item>
+        <item>307-CLASSROOM</item>
+
+    </string-array>
+
+    <string-array name="list3">
+
+
+        <item>010-AIR CONDITIONING LAB</item>
+        <item>011-AUTOMOBILE LAB</item>
+        <item>012-EMPTY</item>
+        <item>013-IOT LAB</item>
+        <item>014-ELECTRICAL MACHINE LAB</item>
+        <item>015-SCHOOL OF SCIENCE AND RESEARCH</item>
+        <item>103-NUCLEAR PHYSICS LAB</item>
+        <item>102-GENERAL PHYSICS LAB2</item>
+        <item>121-CHEMISTRY LAB</item>
+        <item>120-MATERIAL RESEARCH LAB</item>
+        <item>221-ENGINEERING DRAWING LAB</item>
+        <item>219-COMPUTER LAB</item>
+        <item>214-COMPUTER LAB</item>
+        <item>211-COMPUTER LAB</item>
+        <item>315 AND 316-CAD SIMULATION LAB</item>
+        <item>313B-MICROPROCESSOR CONTROLLER LAB</item>
+        <item>309B-ANALOG CIRCUIT LAB</item>
+        <item>307B-CONTROL SYSTEM LAB</item>
+        <item>304-DIGITAL ELECTRONIC LAB</item>
+        <item>305-DIGITAL ELECTRONIC  LAB</item>
+        <item>302-CAD CENTER </item>
+        <item>401-BIOTECH LAB</item>
+        <item>405-RESEARCH LAB</item>
+        <item>504-BIOTECH LAB</item>
+        <item>501A-BIOTECH LAB</item>
+
+
+    </string-array>
+
+    <string-array name="list4">
+
+        <item>007-LANGUAGE LAB</item>
+        <item>008-ENERGY AUDITING AND CONSERVATION LAB</item>
+        <item>009 AND 010-ELECTRICAL LAB</item>
+        <item>109-PHYSICS LAB</item>
+        <item>110-CHEMISTRY LAB3</item>
+        <item>113-CHEMISTRY LAB</item>
+        <item>202A AND 202B-LANGUAGE LAB</item>
+        <item>314-ENVIRONMENTAL LAB</item>
+        <item>308-COMPUTER LAB(A,B,C)</item>
+
+    </string-array>
+
+    <string-array name="list5">
+        <item>006-CLASSROOM</item>
+        <item>006B-CLASSROOM</item>
+        <item>007-LANGUAGE LAB</item>
+        <item>008-ENERGY AND CONSERVATION LAB</item>
+        <item>009 AND 010-ELECTRICAL LAB</item>
+        <item>108A-CLASSROOM</item>
+        <item>108B-CLASSROOM</item>
+        <item>109-PHYSICS LAB</item>
+        <item>110-CHEMISTRY LAB3</item>
+        <item>113-CHEMISTRY</item>
+        <item>107A-CLASSROOM</item>
+        <item>104-CLASSROOM</item>
+        <item>105-CLASSS=ROOM</item>
+        <item>106-CLASSROOM</item>
+        <item>208-CLASSROOM</item>
+        <item>PM207A-CLASSROOM</item>
+        <item>209-CLASSROOM</item>
+        <item>210-CLASSROOM</item>
+        <item>202A AND 202B-LANGUAGE LAB</item>
+        <item>211-CLASSROOM</item>
+        <item>212-CLASSROOM</item>
+        <item>RM107B-CLASSROOM</item>
+        <item>206-CLASSROOM</item>
+        <item>205-CLASSROOM</item>
+        <item>204-CLASSROOM</item>
+        <item>203-CLASSROOM</item>
+        <item>201-CLASSROOM</item>
+        <item>216-CLASSROOM</item>
+        <item>213-CLASSROOM</item>
+        <item>301-ENVIRONMENTAL LAB</item>
+        <item>303-CLASSROOM</item>
+        <item>304-CLASSROOM</item>
+        <item>305-CLASSROOM</item>
+        <item>306-CLASSROOM</item>
+        <item>309-CLASSROOM</item>
+        <item>RM310-CLASSROOM</item>
+        <item>308-COMPUTER LAB</item>
+        <item>307-CLASSROOM</item>
+        <item>208B-CLASSROOM</item>
+        <item>307-CLASSROOM</item>
+    </string-array>
+
+    <string-array name="admission">
+
+        <item>It helps for the following purpose:-</item>
+        <item>1. Registration of a stutent.</item>
+        <item>2.Bonefide letter for student.</item>
+        <item>3.Exchange of program.</item>
+        <item>4.Here is an A.T.M .</item>
+        <item>5.You have to submit all</item>
+        <item>your certificates here</item>
+        <item>at the time of admission.</item>
+
+    </string-array>
+    <string-array name="library_imageslider">
+
+
+        <item>1.Room(101)for setting library.</item>
+        <item>2.Room(102)for CSE LIBRARY for books issue.</item>
+        <item>3.Room(103)for ECE/ME books issue.</item>
+        <item>4.You have to return the books after 14 days.</item>
+    </string-array>
+
+    <string-array name="cafeteria_list">
+
+
+        <item>1.UNCLES CAFE:It is at the corner of block-1(eat anything).</item>
+        <item>2.CCD:It is at the left of Uncles cafe(at block-1).</item>
+        <item>3.ICECREAME PARLOR:It is at the right of Uncles cafe.</item>
+        <item>4.GEORGIA:You can get fast food here near(gate number-4).</item>
+        <item>5.LEGO HOUSE:It is near gate(number-4) "resturant type".</item>
+    </string-array>
+</resources>
